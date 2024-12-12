@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "microservicios-444417",
+  "private_key_id": "8ab3b19006e04593d23ad42bb81b897113858aeb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQ6Kdj30cZqCAl\n1ZLtmdvd/Qlm/uKKJzT4zpalvNPx2P/zdtbUDPqgFmczkrtau6veQIsP9rFzzif/\ndKna3LpVQXpQQ81ga9XH4s7wM3hAZhK1Im6h1GAdcefFNu3IdrZAjKGko6zlyZ/a\nXBawGAlvwFLeSZ0lDXJK4ZsQMdEHsA/i9ZQbhIcLcHQqtE0538IahR0un+PMZTJD\ncPWE3M7OFXdRY5GF9XaYuPYUE12ruJNYa4qqRCPMuhVJqMbfxG3kP6KmbktlJUJP\n9T8ymDdTWjYCivlqLXWm5iB2HV4Vja6TGedphy211VPSngRokqwDQpq/GR2o5ogk\nj54ieEq7AgMBAAECggEAZ1Fo17/pTgsUOyHxVIkvcA5gxAtyxpi1XgfuAXHt8EI9\n847mmGEC4oGx8JO1DR6b1YNeQzricD+ZEIIGLzPTA68qat/dhr5OMFk/txP9ePwC\nbIrm5CpAjs9yrNqJpwbvA+WJW/+G1u5snHXG0rhQknAvi7gke9q2l8oUAmJg2seX\nkQZG7nsSoG7Rbw0/TwaDmTEydIO6mYOj2jYyIM9VM/n64N33ckCMn/Ne7wfdd5rn\nxD0MSmjjwcYenIuyxsBVByVHWipFjxiXKoznmcfixjCnlFO9ejwptwfyoetJw6lz\nYTZPhZcZ9Pi16IDyA1cc7s1QMLeL1ctqKAAcaZVZIQKBgQDp3xDcm8TTeT1/ZMh8\nuUrLzKZZw27G0DL9saUybfyPcdcA/MGUSvp/bQLF7YBCUTNRv5AV2GCnJCyJTt3i\ng79vwjLq6Qo80S3rXl7CZf3i/hXMpL+71B9HIYk1zS9zHarrwbS+Nw0hhC+Va6Ko\n1WQwWPf/H9rxyRo6tw2FRJ4WxQKBgQDkrO8srB8asgCEwqVXyEi9Dz7/x6Xjie/x\ni66peZ/4kLoQY2lnOVZnu8bgzRSahUNjqU+WwVslH8Vedt9eq0tB/9j62SYCj897\nkSorPGI/PnYgGAqaM7FUYEJlkw06r7ORetkSGnH2nXxVeLb4VpvDDQCn9X6V7A/p\nkPAZ/ZbzfwKBgFZLXrdoKqo1VEHLeEa9QCIO81qvyBJIBGijwebnuodbZBATM4J6\nYA/gs2NBDVBrEdqaKppE6vUBXgWUOj84icy9BXi0YHisXps4iRKF+7ZkNrr6F11B\nGgFvGGfnvBhn3Ad9xCljus6hLcWen7hYdM16JpfWsz0ADVOY87424XZZAoGBALpY\nBgr0M+CQHwYQi6Yt6sBNlTvf2FnERMgj2G/4UZi/by/9op3gRn3/sb/svpZwdArZ\npKan5/snmbEx0zIVCh29PHalz2iVAjGiiKd07Ga3IpFipfkkmKO2UUTugQBKv1yU\nrCEpdabOjMwls4xJH2LhzKAR2FaZaBof5th3IrRHAoGBAKhQTSTL4+fAF/tWbWsd\nfQjmsTgGMabbP9Y52oNoRklBVCd6rMFjX/2+b8fxUrgYdsEI7U1nYtKTm+nXITd1\n0y62Scqg224oBVXjyGFk0evoP49j9XGlO6fgk4CEJ5YB+2YoZYh++/fGkIxPeqZR\nVl+Zucx0lwuO1lqMVTOwjR3o\n-----END PRIVATE KEY-----\n",
+  "client_email": "k8s-tienda-registry-reader@microservicios-444417.iam.gserviceaccount.com",
+  "client_id": "106761987672416008050",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/k8s-tienda-registry-reader%40microservicios-444417.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
